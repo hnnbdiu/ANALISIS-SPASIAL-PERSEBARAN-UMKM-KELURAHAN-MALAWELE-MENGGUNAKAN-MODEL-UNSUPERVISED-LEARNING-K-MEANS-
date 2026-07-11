@@ -1,7 +1,0 @@
-treamlit
-pandas
-folium
-streamlit-folium
-scikit-learn
-thefuzz
-python-Levenshtein
